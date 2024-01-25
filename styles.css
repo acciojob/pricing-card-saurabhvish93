@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+* {
+	box-sizing: border-box;
+
+}
+#card1 {
+	margin: 50px 100px;
+	width:400px;
+	height:700px;
+	background-color: #f1f1f1;
+	box-shadow: 2px, 2px, 2px, 2px  #f1f1f1;
+}
+#image1 {
+	margin: 50px 50px 0 50px;
+}
+.p1 {
+	text-align: center;
+}
+#btn {
+	border: none;
+	color: white;
+	border-radius: 10px;
+	text-align: center;
+	margin: 20px 140px;
+	padding: 20px 50px;
+	font-size: 30px
+	
+	
+	border-radius: 8px;
+	background-color: rgb(254,99,91);
+}
